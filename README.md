@@ -1,5 +1,5 @@
-# WWTP_community_prediction
-Code for "Keystone taxa responsible for the microbial community stability and performance of activated sludges"
+# WWTP_community_network
+Code for "Keystone taxa mediate the trade-off between microbial community stability and performance in activated sludges"
 
 ## System Requirements
 
